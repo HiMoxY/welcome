@@ -69,4 +69,4 @@ client.on("guildMemberAdd", member => {
       });
       });
       });
-client.login("TOKEN");
+client.login(process.env.TOKEN);
