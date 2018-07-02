@@ -69,4 +69,4 @@ client.on("guildMemberAdd", member => {
       });
       });
       });
-client.login("NDYzMTY4MTkwNjQ2ODQ1NDUy.DhsewQ.yY3kZK_dWeg-u3nCyMCG0lcbf3A");
+client.login("TOKEN");
